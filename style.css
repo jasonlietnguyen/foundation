@@ -1,0 +1,299 @@
+body {
+    background-size: cover;
+    font-family: 'Poiret One', cursive;
+    font-weight: 500;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poiret One', cursive;
+}
+.main-container {
+    background-image: url(img/background.jpg);
+	background-size: cover;
+	height: 800px;
+	background-attachment: fixed;
+}
+.padding-top {
+    padding-top: 50px;
+}
+.padding-25{
+    margin-top: 35px;
+}
+.padding-bottom {
+    padding-bottom: 50px;
+}
+.row1 p {
+	display: inline;
+	margin-left: 35px;
+    font-size: 1.5em;
+    color: white;
+}
+.header-title p{
+    color: white;
+    font-size: 6em;
+    margin-top: 130px;
+    line-height: 100px;
+    font-weight: lighter;
+}
+.header-title hr{
+    color: #469AE0;
+    margin: 20px 300px 50px 300px;
+}
+.blue-button {
+    font-family: 'Poiret One', cursive;
+    font-weight: 500;
+    display: inline;
+    border: 2px solid #469AE0;
+    border-radius: 5px;
+    color: white;
+    background-color: #469AE0;
+    padding: 10px 20px 10px 30px;
+}
+.green-button{
+     font-family: 'Poiret One', cursive;
+     font-weight: 500;
+    display: inline;
+    border: 2px solid #6cb76c;
+    border-radius: 5px;
+    color: white;
+    background-color: #6cb76c;
+    padding: 10px 20px 10px 30px;
+}
+.container2 h1, h3, h5{
+    font-family: 'Poiret One', cursive;
+    font-weight: 500;
+    color: black;
+}
+.container2 i {
+    color: #469AE0;
+    padding-bottom: 20px;
+    margin: 0 70px;
+}
+.container2 hr {
+    margin: 0 400px;
+}
+.container3 {
+    background-image: url(img/clouds.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+    color: white;
+}
+.container3 h2{
+    font-family: 'Poiret One', cursive;
+    color: white;
+}
+.container3 h5{
+    font-family: 'Poiret One', cursive;
+    font-weight: 600;
+     color: white;
+}
+.container3 h1{
+    font-family: 'Poiret One', cursive;
+    font-weight: 500;
+     color: white;
+}
+.container3 hr{
+    margin: 0 400px;
+}
+.container3 img {
+    border-radius: 100px;
+}
+.container4 h1{
+    font-family: 'Poiret One', cursive;
+    color: white;
+    font-weight: 500;
+}
+.container4 h4{
+    font-family: 'Poiret One', cursive;
+    color: white;
+}
+.container4 hr{
+    margin: 0 400px;
+}
+.container4 {
+    background-color: #469AE0;
+}
+.white-button {
+     font-family: 'Poiret One', cursive;
+     font-weight: 500;
+    display: inline;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: #444;
+    background-color: white;
+    padding: 10px 20px 10px 30px;
+    font-weight: 600;
+}
+.container5 {
+    background-image: url(img/mountain.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.container5 h4 {
+    color: white;
+    border: 2px solid white;
+    opacity: .8;
+}
+.container5 h2 {
+    color: white;
+    border: 2px solid white;
+}
+.container6 {
+    background-color: #469AE0;
+    color: white;
+}
+.container6 h1 {
+    color: white;
+}
+.container6 h3 {
+    color: #333;
+}
+.container6 h4 {
+    color: #469AE0;
+}
+.container6 input {
+    border-radius: 5px;
+}
+.white-box{
+    border: 1px solid white;
+    padding: 30px 0;
+    margin-bottom: 50px;
+}
+.login-button {
+    font-family: 'Poiret One', cursive;
+     font-weight: 500;
+    display: inline;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px 10px 30px;
+    font-weight: 600;
+}
+.login-button:hover {
+    background-color: #6cb76c;
+    border: #6cb76c;
+}
+.signup-button {
+    font-family: 'Poiret One', cursive;
+     font-weight: 500;
+    display: inline;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px 10px 30px;
+    font-weight: 600;
+}
+.signup-button:hover {
+    background-color: #469AE0;
+    border: #469AE0;
+}
+.container7 h1, h2{
+    color: #469AE0;
+    font-weight: 600;
+}
+.container7 hr {
+    margin: 0 400px;
+}
+.container7 i {
+    color: #469AE0;
+}
+#header-background {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+#header-background-blue {
+    background-color: #469AE0;
+    color: white;
+    padding: 50px 0;
+}
+.dark-button{
+     font-family: 'Poiret One', cursive;
+     font-weight: 500;
+    display: inline;
+    border: 2px solid #333;
+    border-radius: 5px;
+    color: white;
+    background-color: #333;
+    padding: 10px 20px 10px 30px;
+}
+.container9 {
+    color: white;
+}
+.facebookI{
+    background-color: #4D6BAB;
+}
+.googleI {
+    background-color: #D34836;
+}
+.linkedinI {
+    background-color: #248CC9;
+}
+.twitterI {
+    background-color: #4EC6F8;
+}
+.container10 {
+    text-align: right;
+    font-weight: 600;
+    background-color: #444;
+}
+.container10 h4{
+    display: inline;
+    color: white;
+}
+.container10 h3 {
+    color: white;
+}
+.container10 i {
+    color: #469AE0;
+}
+.container10 textarea {
+    height: 100px;
+}
+.container10 hr{
+    margin: 20px 0 20px 150px;
+}
+.send-message{
+    text-align: left;
+    padding-left: 50px;
+}
+.contact {
+    padding-right: 50px;
+}
+.container11 {
+    background-color: #469AE0;
+    color: white;
+    
+}
+.container11 h4, h1{
+    font-family: 'Poiret One', cursive;
+    color: white;
+}
+.container11 hr {
+    margin: 0 400px;
+}
+#us {
+    color: #469AE0;
+}
+.conatiner12 {
+    font-size: 3em;
+    background-color: #469AE0;
+}
+.conatiner12 h1 {
+    margin: 50px auto;
+}
+.imagination {
+    background-image: url(img/imagination.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    color: white;
+}
+.imagination h1 {
+    font-size: 4em;
+}
+.imagination h3 {
+    color: white;
+}

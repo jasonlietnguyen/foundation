@@ -1,0 +1,21 @@
+{
+  "name": "foundation",
+  "homepage": "https://github.com/jasonlietnguyen/second-resume",
+  "authors": [
+    "Jason Nguyen <jason123nguyen@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
