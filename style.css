@@ -2,6 +2,7 @@ body {
     background-size: cover;
     font-family: 'Poiret One', cursive;
     font-weight: 500;
+    overflow-x: hidden; 
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Poiret One', cursive;
